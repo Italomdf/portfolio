@@ -1,11 +1,11 @@
 <script>
 	// @ts-ignore
-	import Navbar from "$lib/Navbar.svelte";
+	import NavBar from "$lib/NavBar.svelte";
   import "../app.css";
 
 </script>
 <div class="h-screen">
-  <Navbar/>
+  <NavBar/>
   <slot/>
 </div>
 
