@@ -1,6 +1,7 @@
 <script>
-	// @ts-ignore
 	import NavBar from "$lib/NavBar.svelte";
+
+	// @ts-ignore
   import "../app.css";
 
 </script>
