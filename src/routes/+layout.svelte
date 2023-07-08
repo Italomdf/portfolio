@@ -5,7 +5,6 @@
 
 </script>
 <div class="h-screen">
-  <Navbar/>
   <slot/>
 </div>
 
