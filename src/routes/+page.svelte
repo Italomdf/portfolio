@@ -1,9 +1,7 @@
 <script>
 	import BotaoCopiaEmail from "$lib/BotaoCopiaEmail.svelte";
-	import EmailIcon from "$lib/EmailIcon.svelte";
 import IconeGit from "$lib/IconeGit.svelte";
 	import Icons from "$lib/Icons.svelte";
-	import LinkedinIcon from "$lib/LinkedinIcon.svelte";
 	import WhatsappIcon from "$lib/WhatsappIcon.svelte";
 
 Icons
