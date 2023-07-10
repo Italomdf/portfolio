@@ -45,8 +45,8 @@ Icons
                     <div class="h-[46px] w-[3px] bg-gray-600 dark:bg-gray-600 absolute -left-[17px] top-[178px] rounded-l-lg"></div>
                     <div class="h-[64px] w-[3px] bg-gray-600 dark:bg-gray-600 absolute -right-[17px] top-[142px] rounded-r-lg"></div>
                     <div class="rounded-[2rem] overflow-hidden w-[272px] h-[572px] bg-gray-600">
-                        <img src="Screenshot1.png" class="dark:hidden w-[272px] h-[572px]" alt="">
-                        <img src="Screenshot1.png" class="hidden dark:block w-[272px] h-[572px]" alt="">
+                        <img src="desco_fone.png" class="dark:hidden w-[272px] h-[572px]" alt="">
+                        <img src="desco_fone.png" class="hidden dark:block w-[272px] h-[572px]" alt="">
                     </div>
                 </div>
             </a>
@@ -88,8 +88,8 @@ Icons
                     <div class="h-[46px] w-[3px] bg-gray-600 dark:bg-gray-600 absolute -left-[17px] top-[178px] rounded-l-lg"></div>
                     <div class="h-[64px] w-[3px] bg-gray-600 dark:bg-gray-600 absolute -right-[17px] top-[142px] rounded-r-lg"></div>
                     <div class="rounded-[2rem] overflow-hidden w-[272px] h-[572px] bg-gray-600">
-                        <img src="home_hireX.png" class="dark:hidden w-[272px] h-[572px]" alt="">
-                        <img src="home_hireX.png" class="hidden dark:block w-[272px] h-[572px]" alt="">
+                        <img src="HireX.png" class="dark:hidden w-[272px] h-[572px]" alt="">
+                        <img src="HireX.png" class="hidden dark:block w-[272px] h-[572px]" alt="">
                     </div>
                 </div>
 
