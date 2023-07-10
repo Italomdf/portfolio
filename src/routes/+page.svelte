@@ -42,7 +42,7 @@ Icons
                     <div class="h-[46px] w-[3px] bg-gray-600 dark:bg-gray-600 absolute -left-[17px] top-[124px] rounded-l-lg"></div>
                     <div class="h-[46px] w-[3px] bg-gray-600 dark:bg-gray-600 absolute -left-[17px] top-[178px] rounded-l-lg"></div>
                     <div class="h-[64px] w-[3px] bg-gray-600 dark:bg-gray-600 absolute -right-[17px] top-[142px] rounded-r-lg"></div>
-                    <div class="rounded-[2rem] overflow-hidden w-[272px] h-[572px]bg-gray-600">
+                    <div class="rounded-[2rem] overflow-hidden w-[272px] h-[572px] bg-gray-600">
                         <img src="Screenshot1.png" class="dark:hidden w-[272px] h-[572px]" alt="">
                         <img src="Screenshot1.png" class="hidden dark:block w-[272px] h-[572px]" alt="">
                     </div>
@@ -55,7 +55,7 @@ Icons
                         <div class="h-[46px] w-[3px] bg-gray-600 dark:bg-gray-600 absolute -left-[17px] top-[124px] rounded-l-lg"></div>
                         <div class="h-[46px] w-[3px] bg-gray-600 dark:bg-gray-600 absolute -left-[17px] top-[178px] rounded-l-lg"></div>
                         <div class="h-[64px] w-[3px] bg-gray-600 dark:bg-gray-600 absolute -right-[17px] top-[142px] rounded-r-lg"></div>
-                        <div class="rounded-[2rem] overflow-hidden h-[426px] md:h-[654px]bg-gray-600">
+                        <div class="rounded-[2rem] overflow-hidden h-[426px] md:h-[654px] bg-gray-600">
                             <img src="desco_tablet.png" class="dark:hidden h-[426px] md:h-[654px]" alt="">
                             <img src="desco_tablet.png" class="hidden dark:block h-[426px] md:h-[654px]" alt="">
                         </div>  
