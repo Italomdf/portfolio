@@ -8,7 +8,7 @@ Icons
 </script>
 
 <body class="bg-[radial-gradient(ellipse_at_top_left,_var(--tw-gradient-stops))] from-gray-700 via-gray-900 to-black">
-    <div class="flex flex-col justify-center items-center h-screen w-screen">
+    <div class="flex flex-col justify-center items-center h-screen">
         <div class="mt-[-10%]">
             <div class="">
                 <p class="text-sm text-start sm:text-[15px] md:text-[20px] font-black text-gray-900 dark:text-white">Hello &#128075, my name is Ítalo and I'm a </p>
