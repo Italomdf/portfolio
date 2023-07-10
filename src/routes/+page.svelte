@@ -7,7 +7,7 @@ import IconeGit from "$lib/IconeGit.svelte";
 Icons
 </script>
 
-<body class="bg-white shadow dark:bg-[radial-gradient(ellipse_at_top_left,_var(--tw-gradient-stops))] from-gray-700 via-gray-900 to-black">
+<body class="bg-[radial-gradient(ellipse_at_top_left,_var(--tw-gradient-stops))] from-gray-700 via-gray-900 to-black">
     <div class="flex flex-col justify-center items-center h-screen">
         <div class="mt-[-10%]">
             <div class="">
