@@ -16,7 +16,7 @@ Icons
             <p class="text-4xl sm:text-9xl font-black text-white text-center">FLUTTER</p>
             <p class="text-4xl sm:text-9xl font-black text-white text-center">DEVELOPER</p>
             <div>
-                <p class="text-sm text-end sm:text-[15px] md:text-[20px] font-blacktext-white">Building better apps everyday &#128241.</p>
+                <p class="text-sm text-end sm:text-[15px] md:text-[20px] font-black text-white">Building better apps everyday &#128241.</p>
             </div>
             
         </div>
@@ -30,7 +30,7 @@ Icons
             <h1 class="text-4xl sm:text-7xl font-black text-white text-center">PROJETOS</h1>
         </div> 
         <div class="flex justify-center gap-6">
-            <h1 class="text-sm sm:text-5xl md:text-5xl text-gray-400  text-center">DESCO </h1>
+            <h1 class="text-3xl text-gray-400  text-center">DESCO </h1>
             <div>
                 <IconeGit gitref = 'https://github.com/Italomdf/desco'/>
             </div>  
@@ -68,7 +68,7 @@ Icons
     </div>   
     <div class="">
         <div class="flex justify-center gap-6">
-            <h1 class="text-5xl text-gray-400  text-center">HireX </h1>
+            <h1 class="text-3xl text-gray-400  text-center">HireX </h1>
             <div>
                 <IconeGit gitref = 'https://github.com/Italomdf/desco'/>
             </div> 
@@ -112,7 +112,7 @@ Icons
         
     </div> 
 </body>
-<footer id="contato" class="footer footer-center p-10 bg-base-200 text-base-content rounded">
+<footer id="contato" class="footer footer-center p-10 bg-slate-800 text-base-content rounded">
     <div class="grid grid-flow-col gap-4">
       <a class="link link-hover">Contact</a> 
     </div> 
