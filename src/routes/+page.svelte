@@ -7,6 +7,8 @@
 Icons
 </script>
 
+<title>Portfolio Italo</title>
+
 <body class="bg-[radial-gradient(ellipse_at_top_left,_var(--tw-gradient-stops))] from-gray-700 via-gray-900 to-black">
     <div class="flex flex-col justify-center items-center h-screen">
         <div class="mt-[-10%]">
