@@ -5,7 +5,7 @@
   import "../app.css";
 
 </script>
-<div class="h-screen">
+<div>
   <NavBar/>
   <slot/>
 </div>
