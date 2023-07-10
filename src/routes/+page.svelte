@@ -114,7 +114,7 @@ Icons
 </body>
 <footer id="contato" class="footer footer-center p-10 bg-slate-800 text-base-content rounded">
     <div class="grid grid-flow-col gap-4">
-      <a class="link link-hover">Contact</a> 
+      <p class="text-white">Contact</p> 
     </div> 
     <div>
       <div class="grid grid-flow-col gap-4">
@@ -125,7 +125,7 @@ Icons
       </div>
     </div> 
     <div>
-      <p>Copyright © 2023 - All right reserved by ACME Industries Ltd</p>
+      <p class="text-white">Copyright © 2023 - All right reserved by ACME Industries Ltd</p>
     </div>
   </footer>
 

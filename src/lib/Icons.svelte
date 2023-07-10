@@ -14,18 +14,18 @@
 
 
   <a href="https://github.com/italomdf" target="_blank">
-    <button style="width: 50px; height: 50px;" class=" transition ease-in-out delay-150 transform hover:-translate-y-1 hover:scale-150 duration-300 ">
+    <button class=" transition ease-in-out delay-150 transform hover:-translate-y-1 hover:scale-150 duration-300 ">
       <GithubIcon cor = {cor}/>
     </button> 
   </a>
   <a href="https://www.linkedin.com/in/italo-de-faveri-421901207/"  target="_blank">
-    <button style="width: 55px; height: 55px;" class=" transition ease-in-out delay-150 transform hover:-translate-y-1 hover:scale-150 duration-300">
+    <button class=" transition ease-in-out delay-150 transform hover:-translate-y-1 hover:scale-150 duration-300">
       <LinkedinIcon cor = {cor}/>
     </button> 
   </a>
 
   <a href="Cv_Italo_En.pdf" target="_blank">
-    <button style="width: 50px; height: 50px;" class=" transition ease-in-out delay-150 transform hover:-translate-y-1 hover:scale-150 duration-300">
+    <button class=" transition ease-in-out delay-150 transform hover:-translate-y-1 hover:scale-150 duration-300">
       <CvIcon cor = {cor} />
     </button> 
   </a>
