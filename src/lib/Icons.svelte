@@ -24,7 +24,7 @@
     </button> 
   </a>
 
-  <a href="Cv_Italo_En.pdf" target="_blank">
+  <a href="cv_italo_en.pdf" target="_blank">
     <button class=" transition ease-in-out delay-150 transform hover:-translate-y-1 hover:scale-150 duration-300">
       <CvIcon cor = {cor} />
     </button> 

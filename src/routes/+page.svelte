@@ -25,11 +25,11 @@ Icons
             <Icons/>
         </div>
     </div>
-    <div id="projetos"  class="">
+    <div id="desco"  class="">
         <div>
             <h1 class="text-4xl sm:text-7xl font-black text-white text-center">PROJETOS</h1>
         </div> 
-        <div class="flex justify-center gap-6">
+        <div class="flex justify-center gap-4 p-10">
             <h1 class="text-3xl text-gray-400  text-center">DESCO </h1>
             <div>
                 <IconeGit gitref = 'https://github.com/Italomdf/desco'/>
@@ -66,19 +66,19 @@ Icons
         
         
     </div>   
-    <div class="">
-        <div class="flex justify-center gap-6">
-            <h1 class="text-3xl text-gray-400  text-center">HireX </h1>
+    <div class="p-10 pt-20">
+        <div class="flex justify-center gap-4 ">
+            <h1 class="text-3xl text-gray-400 text-center">HireX </h1>
             <div>
-                <IconeGit gitref = 'https://github.com/Italomdf/desco'/>
+                <IconeGit gitref = 'https://github.com/Italomdf/hireX'/>
             </div> 
              
         </div> 
-        <p class="text-gray-400 pr-10 text-center">(under development)</p>
+        <p class="text-gray-400 pr-10 text-center pb-5">(under development)</p>
               
         <div class="flex flex-col justify-center items-center gap-6 md:flex-row">
             
-            <a target="_blank" href="https://play.google.com/store/apps/details?id=com.elemenx.desco">
+            <a target="_blank" href="https://github.com/Italomdf/hireX">
                 
                 <div class="transition ease-in-out delay-150 transform hover:-translate-y-1 hover:scale-110 duration-300 flex-colrelative mx-auto border-gray-600 bg-gray-600 border-[14px] rounded-[2.5rem] h-[600px] w-[300px]">
                     <div class="h-[32px] w-[3px] bg-gray-600 dark:bg-gray-600 absolute -left-[17px] top-[72px] rounded-l-lg"></div>
@@ -92,7 +92,7 @@ Icons
                 </div>
 
             </a>
-            <a target="_blank" href="https://play.google.com/store/apps/details?id=com.elemenx.desco">
+            <a target="_blank" href="https://github.com/Italomdf/hireX">
                 <div class=" transition ease-in-out delay-150 transform hover:-translate-y-1 hover:scale-110 duration-300 flex-col p-6">
                     <div class="relative mx-auto border-gray-600 dark:border-gray-600 bg-gray-600 border-[14px] rounded-[2.5rem] h-[454px] max-w-[341px] md:h-[682px] md:max-w-[512px]">
                         <div class="h-[32px] w-[3px] bg-gray-600 dark:bg-gray-600 absolute -left-[17px] top-[72px] rounded-l-lg"></div>
@@ -124,8 +124,5 @@ Icons
         
       </div>
     </div> 
-    <div>
-      <p class="text-white">Copyright © 2023 - All right reserved by ACME Industries Ltd</p>
-    </div>
   </footer>
 
