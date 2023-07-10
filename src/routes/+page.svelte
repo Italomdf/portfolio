@@ -11,12 +11,12 @@ Icons
     <div class="flex flex-col justify-center items-center h-screen">
         <div class="mt-[-10%]">
             <div>
-                <p class="text-sm text-start sm:text-[15px] md:text-[20px] font-black text-gray-900 dark:text-white">Hello &#128075, my name is Ítalo and I'm a</p>
+                <p class="text-sm text-start sm:text-[15px] md:text-[20px] font-black text-white">Hello &#128075, my name is Ítalo and I'm a</p>
             </div>
-            <p class="text-4xl sm:text-9xl font-black text-gray-900 dark:text-white text-center">FLUTTER</p>
-            <p class="text-4xl sm:text-9xl font-black text-gray-900 dark:text-white text-center">DEVELOPER</p>
+            <p class="text-4xl sm:text-9xl font-black text-white text-center">FLUTTER</p>
+            <p class="text-4xl sm:text-9xl font-black text-white text-center">DEVELOPER</p>
             <div>
-                <p class="text-sm text-end sm:text-[15px] md:text-[20px] font-black text-gray-900 dark:text-white">Building better apps everyday &#128241.</p>
+                <p class="text-sm text-end sm:text-[15px] md:text-[20px] font-blacktext-white">Building better apps everyday &#128241.</p>
             </div>
             
         </div>
@@ -27,7 +27,7 @@ Icons
     </div>
     <div id="projetos"  class="">
         <div>
-            <h1 class="text-4xl sm:text-7xl font-black text-gray-900 dark:text-white text-center">PROJETOS</h1>
+            <h1 class="text-4xl sm:text-7xl font-black text-white text-center">PROJETOS</h1>
         </div> 
         <div class="flex justify-center gap-6">
             <h1 class="text-sm sm:text-5xl md:text-5xl text-gray-400  text-center">DESCO </h1>
@@ -37,12 +37,12 @@ Icons
         </div>   
         <div class="flex flex-col justify-center items-center gap-6 md:flex-row">
             <a target="_blank" href="https://play.google.com/store/apps/details?id=com.elemenx.desco">
-                <div class="transition ease-in-out delay-150 transform hover:-translate-y-1 hover:scale-110 duration-300 flex-col relative mx-auto border-white dark:border-gray-600 bg-gray-600 border-[14px] rounded-[2.5rem] h-[600px] w-[300px]">
+                <div class="transition ease-in-out delay-150 transform hover:-translate-y-1 hover:scale-110 duration-300 flex-col relative mx-auto border-gray-600 bg-gray-600 border-[14px] rounded-[2.5rem] h-[600px] w-[300px]">
                     <div class="h-[32px] w-[3px] bg-gray-600 dark:bg-gray-600 absolute -left-[17px] top-[72px] rounded-l-lg"></div>
                     <div class="h-[46px] w-[3px] bg-gray-600 dark:bg-gray-600 absolute -left-[17px] top-[124px] rounded-l-lg"></div>
                     <div class="h-[46px] w-[3px] bg-gray-600 dark:bg-gray-600 absolute -left-[17px] top-[178px] rounded-l-lg"></div>
                     <div class="h-[64px] w-[3px] bg-gray-600 dark:bg-gray-600 absolute -right-[17px] top-[142px] rounded-r-lg"></div>
-                    <div class="rounded-[2rem] overflow-hidden w-[272px] h-[572px] bg-white dark:bg-gray-600">
+                    <div class="rounded-[2rem] overflow-hidden w-[272px] h-[572px]bg-gray-600">
                         <img src="Screenshot1.png" class="dark:hidden w-[272px] h-[572px]" alt="">
                         <img src="Screenshot1.png" class="hidden dark:block w-[272px] h-[572px]" alt="">
                     </div>
@@ -55,8 +55,8 @@ Icons
                         <div class="h-[46px] w-[3px] bg-gray-600 dark:bg-gray-600 absolute -left-[17px] top-[124px] rounded-l-lg"></div>
                         <div class="h-[46px] w-[3px] bg-gray-600 dark:bg-gray-600 absolute -left-[17px] top-[178px] rounded-l-lg"></div>
                         <div class="h-[64px] w-[3px] bg-gray-600 dark:bg-gray-600 absolute -right-[17px] top-[142px] rounded-r-lg"></div>
-                        <div class="rounded-[2rem] overflow-hidden h-[426px] md:h-[654px] bg-white dark:bg-gray-600">
-                            <img src="tablet.png" class="dark:hidden h-[426px] md:h-[654px]" alt="">
+                        <div class="rounded-[2rem] overflow-hidden h-[426px] md:h-[654px]bg-gray-600">
+                            <img src="desco_tablet.png" class="dark:hidden h-[426px] md:h-[654px]" alt="">
                             <img src="desco_tablet.png" class="hidden dark:block h-[426px] md:h-[654px]" alt="">
                         </div>  
                     </div>
@@ -80,12 +80,12 @@ Icons
             
             <a target="_blank" href="https://play.google.com/store/apps/details?id=com.elemenx.desco">
                 
-                <div class="transition ease-in-out delay-150 transform hover:-translate-y-1 hover:scale-110 duration-300 flex-colrelative mx-auto border-white dark:border-gray-600 bg-gray-600 border-[14px] rounded-[2.5rem] h-[600px] w-[300px]">
+                <div class="transition ease-in-out delay-150 transform hover:-translate-y-1 hover:scale-110 duration-300 flex-colrelative mx-auto border-gray-600 bg-gray-600 border-[14px] rounded-[2.5rem] h-[600px] w-[300px]">
                     <div class="h-[32px] w-[3px] bg-gray-600 dark:bg-gray-600 absolute -left-[17px] top-[72px] rounded-l-lg"></div>
                     <div class="h-[46px] w-[3px] bg-gray-600 dark:bg-gray-600 absolute -left-[17px] top-[124px] rounded-l-lg"></div>
                     <div class="h-[46px] w-[3px] bg-gray-600 dark:bg-gray-600 absolute -left-[17px] top-[178px] rounded-l-lg"></div>
                     <div class="h-[64px] w-[3px] bg-gray-600 dark:bg-gray-600 absolute -right-[17px] top-[142px] rounded-r-lg"></div>
-                    <div class="rounded-[2rem] overflow-hidden w-[272px] h-[572px] bg-white dark:bg-gray-600">
+                    <div class="rounded-[2rem] overflow-hidden w-[272px] h-[572px] bg-gray-600">
                         <img src="home_hireX.png" class="dark:hidden w-[272px] h-[572px]" alt="">
                         <img src="home_hireX.png" class="hidden dark:block w-[272px] h-[572px]" alt="">
                     </div>
@@ -99,7 +99,7 @@ Icons
                         <div class="h-[46px] w-[3px] bg-gray-600 dark:bg-gray-600 absolute -left-[17px] top-[124px] rounded-l-lg"></div>
                         <div class="h-[46px] w-[3px] bg-gray-600 dark:bg-gray-600 absolute -left-[17px] top-[178px] rounded-l-lg"></div>
                         <div class="h-[64px] w-[3px] bg-gray-600 dark:bg-gray-600 absolute -right-[17px] top-[142px] rounded-r-lg"></div>
-                        <div class="rounded-[2rem] overflow-hidden h-[426px] md:h-[654px] bg-white dark:bg-gray-600">
+                        <div class="rounded-[2rem] overflow-hidden h-[426px] md:h-[654px] bg-gray-600">
                             <img src="tablet.png" class="dark:hidden h-[426px] md:h-[654px]" alt="">
                             <img src="tablet.png" class="hidden dark:block h-[426px] md:h-[654px]" alt="">
                         </div>  
