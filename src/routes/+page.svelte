@@ -36,7 +36,11 @@ Icons
             <div>
                 <IconeGit gitref = 'https://github.com/Italomdf/desco'/>
             </div>  
+            
         </div>   
+        <p class="text-gray-400 pr-10 text-center pb-5">An expenses app, where you can control, analyze or sort your monthly, weekly or daily costs on a simple way.</p>
+        <br>
+        
         <div class="flex flex-col justify-center items-center gap-6 md:flex-row">
             <a target="_blank" href="https://play.google.com/store/apps/details?id=com.elemenx.desco">
                 <div class="transition ease-in-out delay-150 transform hover:-translate-y-1 hover:scale-110 duration-300 flex-col relative mx-auto border-gray-600 bg-gray-600 border-[14px] rounded-[2.5rem] h-[600px] w-[300px]">
@@ -76,7 +80,11 @@ Icons
             </div> 
              
         </div> 
-        <p class="text-gray-400 pr-10 text-center pb-5">(under development)</p>
+        <br>
+        <p class="text-gray-400 pr-10 text-center pb-5">An app for hiring engineers and architects. The app has features such as rating professionals and sharing projects.</p>
+        <p class="text-gray-400 pr-10 text-center pb-5">(New features under development)</p>
+        
+        
               
         <div class="flex flex-col justify-center items-center gap-6 md:flex-row">
             
