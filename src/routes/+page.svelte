@@ -29,7 +29,7 @@ Icons
     </div>
     <div id="desco"  class="">
         <div>
-            <h1 class="text-4xl sm:text-7xl font-black text-white text-center">PROJETOS</h1>
+            <h1 class="text-4xl sm:text-7xl font-black text-white text-center">PROJECTS</h1>
         </div> 
         <div class="flex justify-center gap-4 p-10">
             <h1 class="text-3xl text-gray-400  text-center">DESCO </h1>
